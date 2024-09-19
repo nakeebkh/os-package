@@ -1,5 +1,5 @@
 {
-  "name": "os-info",
+  "name": "os-info-ms",
   "version": "1.0.0",
   "description": "gives information of os",
   "main": "index.js",
@@ -9,7 +9,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "shamaiel wani",
+  "github": "https://github.com/nakeebkh/os-package", 
   "license": "ISC",
   "dependencies": {
     "express": "^4.21.0"

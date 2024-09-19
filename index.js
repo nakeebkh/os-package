@@ -1,7 +1,5 @@
 const os = require('os');
 
-// Function to get OS information
-
 function getOSInfo() {
     return {
         userInfo: os.userInfo(),
